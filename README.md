@@ -4,6 +4,7 @@ It was built using HTML, CSS, JavaScript, and integrated with Firebase Authentic
 team-portal-site/
 │
 ├── index.html        → Main landing page of the website
+
 ├── homepage.html     → User homepage / dashboard
 ├── register.html     → Registration + Login page
 │
@@ -16,3 +17,4 @@ team-portal-site/
 ├── script.js         → General scripts
 │
 └── assets/           → All website images (logo, background, etc.)
+
