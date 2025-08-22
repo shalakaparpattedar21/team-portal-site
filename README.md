@@ -3,18 +3,16 @@ It was built using HTML, CSS, JavaScript, and integrated with Firebase Authentic
 
 team-portal-site/
 │
-├── index.html        → Main landing page of the website
-
-├── homepage.html     → User homepage / dashboard
-├── register.html     → Registration + Login page
+├── index.html → Main landing page of the website
+├── homepage.html → User homepage / dashboard
+├── register.html → Registration + Login page
 │
-├── style.css         → Styles for index page
-├── style2.css        → Styles for homepage
-├── register.css      → Styles for register page (if needed)
+├── style.css → Styles for index page
+├── style2.css → Styles for homepage
+├── register.css → Styles for register page (if needed)
 │
-├── firebaseauth.js   → Firebase authentication logic (sign up / login)
-├── homepage.js       → Extra scripts for homepage
-├── script.js         → General scripts
+├── firebaseauth.js → Firebase authentication logic (sign up / login)
+├── homepage.js → Extra scripts for homepage
+├── script.js → General scripts
 │
-└── assets/           → All website images (logo, background, etc.)
-
+└── assets/ → All website images (logo, background, etc.)
